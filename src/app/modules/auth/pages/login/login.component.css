@@ -1,0 +1,15 @@
+.content {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  height: 100%;
+}
+
+.card {
+  margin: auto;
+}
+
+.card-content {
+  display: flex;
+  flex-direction: column;
+}
